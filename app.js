@@ -1,2 +1,2 @@
 alert("Salut");
-console.log("salut")
+console.log("salut tout le monde")
